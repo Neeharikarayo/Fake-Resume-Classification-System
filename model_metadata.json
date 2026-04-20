@@ -1,0 +1,52 @@
+{
+  "best_model": "Logistic Regression",
+  "training_date": "2026-04-20T17:30:35",
+  "n_training_samples": 181,
+  "smote_applied": false,
+  "tfidf_params": {
+    "max_features": "10000",
+    "ngram_range": "(1, 2)",
+    "stop_words": "english",
+    "sublinear_tf": "True",
+    "min_df": "2"
+  },
+  "num_feature_cols": [
+    "skill_count",
+    "word_count",
+    "experience_years",
+    "graduation_year",
+    "skill_experience_ratio",
+    "timeline_issue",
+    "too_many_skills"
+  ],
+  "cv_folds": 5,
+  "cv_results": {
+    "Logistic Regression": {
+      "cv_accuracy_mean": 0.9668,
+      "cv_precision_mean": 0.2,
+      "cv_recall_mean": 0.4,
+      "cv_f1_mean": 0.2667,
+      "cv_f1_std": 0.3266
+    },
+    "Random Forest": {
+      "cv_accuracy_mean": 0.9779,
+      "cv_precision_mean": 0.2,
+      "cv_recall_mean": 0.2,
+      "cv_f1_mean": 0.2,
+      "cv_f1_std": 0.4
+    },
+    "XGBoost": {
+      "cv_accuracy_mean": 0.989,
+      "cv_precision_mean": 0.0,
+      "cv_recall_mean": 0.0,
+      "cv_f1_mean": 0.0,
+      "cv_f1_std": 0.0
+    }
+  },
+  "holdout_metrics": {
+    "accuracy": 0.9348,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0
+  }
+}

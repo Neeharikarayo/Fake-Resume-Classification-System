@@ -1,0 +1,633 @@
+{
+  "genuine_resumes": [
+    {
+      "name": "Zara Peterson",
+      "education": "B.Com from Purdue University, graduated 2015",
+      "graduation_year": "2015",
+      "experience_years": "1",
+      "skills": [
+        "Data Entry",
+        "Excel",
+        "Communication",
+        "Accounting",
+        "Financial Analysis",
+        "SQL"
+      ],
+      "projects": [
+        "Developed risk assessment framework for $3729M loan portfolio"
+      ],
+      "resume_text": "Zara Peterson. Finance Intern. Education: B.Com from Purdue University, graduated 2015. Experience: 1 years in Finance. Work History: Finance Intern at Codewave Technologies, New York, NY (2025-2026). Skills: Data Entry, Excel, Communication, Accounting, Financial Analysis, SQL. Projects: Developed risk assessment framework for $3729M loan portfolio. Location: San Francisco, CA.",
+      "label": 0
+    },
+    {
+      "name": "Sanjay Henderson",
+      "education": "B.Com from SRM University, graduated 2018. M.S. in Marketing Analytics from University of Michigan, graduated 2019",
+      "graduation_year": "2018",
+      "experience_years": "8",
+      "skills": [
+        "Content Writing",
+        "Marketing Automation",
+        "A/B Testing",
+        "SEO Basics",
+        "Brand Architecture",
+        "Market Research",
+        "CMO Strategy",
+        "Digital Marketing",
+        "Canva",
+        "Campaign Management",
+        "Email Marketing",
+        "Marketing Transformation",
+        "P&L Management",
+        "CRM",
+        "Marketing Analytics",
+        "Brand Strategy",
+        "Social Media",
+        "Content Strategy",
+        "Google Analytics",
+        "Google Ads"
+      ],
+      "projects": [
+        "Managed PPC campaigns with $4139K monthly budget achieving 23% ROI",
+        "Implemented SEO strategy increasing organic traffic by 39%"
+      ],
+      "resume_text": "Sanjay Henderson. VP of Marketing. Education: B.Com from SRM University, graduated 2018. M.S. in Marketing Analytics from University of Michigan, graduated 2019. Experience: 8 years in Marketing. Work History: Content Manager at PixelPerfect Studios, Minneapolis, MN (2023-2026). Senior Marketing Manager at Lyft, Seattle, WA (2019-2023). Head of Growth at Twitter, Boston, MA (2018-2019). Skills: Content Writing, Marketing Automation, A/B Testing, SEO Basics, Brand Architecture, Market Research, CMO Strategy, Digital Marketing, Canva, Campaign Management, Email Marketing, Marketing Transformation, P&L Management, CRM, Marketing Analytics, Brand Strategy, Social Media, Content Strategy, Google Analytics, Google Ads. Projects: Managed PPC campaigns with $4139K monthly budget achieving 23% ROI. Implemented SEO strategy increasing organic traffic by 39%. Location: San Diego, CA.",
+      "label": 0
+    },
+    {
+      "name": "Frances Perry",
+      "education": "B.Tech in Information Technology from University of California, Los Angeles, graduated 2019. MBA in Information Technology from SRM University, graduated 2020",
+      "graduation_year": "2019",
+      "experience_years": "5",
+      "skills": [
+        "Epic",
+        "Health Informatics",
+        "Cerner",
+        "Excel",
+        "Clinical Decision Support",
+        "HL7",
+        "HIPAA Basics",
+        "EMR Basics",
+        "SQL",
+        "Medical Terminology",
+        "Interoperability"
+      ],
+      "projects": [
+        "Built clinical decision support system for manufacturing",
+        "Built clinical data warehouse with 2705 patient records",
+        "Implemented Epic EMR system for 2569-bed hospital"
+      ],
+      "resume_text": "Frances Perry. Informatics Manager. Education: B.Tech in Information Technology from University of California, Los Angeles, graduated 2019. MBA in Information Technology from SRM University, graduated 2020. Experience: 5 years in Healthcare IT. Work History: Clinical Informatics Analyst at Google, San Diego, CA (2023-2026). Senior Health IT Analyst at Codewave Technologies, Denver, CO (2021-2023). Skills: Epic, Health Informatics, Cerner, Excel, Clinical Decision Support, HL7, HIPAA Basics, EMR Basics, SQL, Medical Terminology, Interoperability. Projects: Built clinical decision support system for manufacturing. Built clinical data warehouse with 2705 patient records. Implemented Epic EMR system for 2569-bed hospital. Certifications: Google Cloud Professional. Location: Singapore.",
+      "label": 0
+    },
+    {
+      "name": "Gerald Allen",
+      "education": "B.S. in Economics from University of Wisconsin-Madison, graduated 2012",
+      "graduation_year": "2012",
+      "experience_years": "1",
+      "skills": [
+        "HR Software Basics",
+        "MS Office",
+        "Data Entry",
+        "Communication",
+        "Recruitment Basics"
+      ],
+      "projects": [
+        "Designed onboarding program reducing time-to-productivity by 38%"
+      ],
+      "resume_text": "Gerald Allen. Recruitment Assistant. Education: B.S. in Economics from University of Wisconsin-Madison, graduated 2012. Experience: 1 years in HR. Work History: Recruitment Assistant at Goldman Sachs, Orlando, FL (2025-2026). Skills: HR Software Basics, MS Office, Data Entry, Communication, Recruitment Basics. Projects: Designed onboarding program reducing time-to-productivity by 38%. Location: Minneapolis, MN.",
+      "label": 0
+    },
+    {
+      "name": "Jesse Collins",
+      "education": "B.Tech in Computer Science from University of Florida, graduated 2015. M.S. in Computer Science from Northeastern University, graduated 2016",
+      "graduation_year": "2015",
+      "experience_years": "3",
+      "skills": [
+        "SQL",
+        "Jupyter",
+        "Matplotlib",
+        "TensorFlow",
+        "Pandas",
+        "Statistics",
+        "Feature Engineering",
+        "Python",
+        "Excel",
+        "NumPy"
+      ],
+      "projects": [
+        "Developed time-series forecasting model for demand planning"
+      ],
+      "resume_text": "Jesse Collins. Data Analyst. Education: B.Tech in Computer Science from University of Florida, graduated 2015. M.S. in Computer Science from Northeastern University, graduated 2016. Experience: 3 years in Data Science. Work History: Associate Analyst at Best Buy, Gurgaon, India (2025-2026). Data Scientist at StreamLine Tech, Denver, CO (2023-2025). Skills: SQL, Jupyter, Matplotlib, TensorFlow, Pandas, Statistics, Feature Engineering, Python, Excel, NumPy. Projects: Developed time-series forecasting model for demand planning. Certifications: Azure Administrator, CompTIA Security+. Location: Dallas, TX.",
+      "label": 0
+    },
+    {
+      "name": "Karen Kumar",
+      "education": "B.S. in Mathematics and Computer Science from University of British Columbia, graduated 2022. M.Tech in Computer Science from SRM University, graduated 2023",
+      "graduation_year": "2022",
+      "experience_years": "4",
+      "skills": [
+        "Networking",
+        "SIEM",
+        "Firewalls",
+        "Vulnerability Assessment",
+        "Threat Hunting",
+        "Forensics",
+        "SOC Operations",
+        "Linux",
+        "IDS/IPS",
+        "Python",
+        "TCP/IP",
+        "Zero Trust Architecture",
+        "Malware Analysis"
+      ],
+      "projects": [
+        "Developed incident response playbook reducing response time by 14%"
+      ],
+      "resume_text": "Karen Kumar. Security Architect. Education: B.S. in Mathematics and Computer Science from University of British Columbia, graduated 2022. M.Tech in Computer Science from SRM University, graduated 2023. Experience: 4 years in Cybersecurity. Work History: IT Security Trainee at AlphaWave Systems, Berlin, Germany (2025-2026). Lead Security Analyst at IBM, Berlin, Germany (2022-2025). Skills: Networking, SIEM, Firewalls, Vulnerability Assessment, Threat Hunting, Forensics, SOC Operations, Linux, IDS/IPS, Python, TCP/IP, Zero Trust Architecture, Malware Analysis. Projects: Developed incident response playbook reducing response time by 14%. Location: Phoenix, AZ.",
+      "label": 0
+    },
+    {
+      "name": "Gabriel Lee",
+      "education": "B.S. in Marketing from University of California, San Diego, graduated 2020",
+      "graduation_year": "2020",
+      "experience_years": "6",
+      "skills": [
+        "Presentation Skills",
+        "PMP",
+        "Communication",
+        "MS Office",
+        "Kanban",
+        "Vendor Management",
+        "Confluence",
+        "Agile Basics",
+        "Resource Planning",
+        "Risk Management",
+        "Documentation",
+        "SAFe",
+        "Strategic Planning",
+        "JIRA"
+      ],
+      "projects": [
+        "Managed 1323-member cross-functional team delivering education platform"
+      ],
+      "resume_text": "Gabriel Lee. Program Manager. Education: B.S. in Marketing from University of California, San Diego, graduated 2020. Experience: 6 years in Project Management. Work History: Project Manager at CloudVista Technologies, Orlando, FL (2024-2026). Senior Project Manager at VertexAI Labs, Orlando, FL (2021-2024). Senior Project Manager at HCL Technologies, San Diego, CA (2020-2021). Skills: Presentation Skills, PMP, Communication, MS Office, Kanban, Vendor Management, Confluence, Agile Basics, Resource Planning, Risk Management, Documentation, SAFe, Strategic Planning, JIRA. Projects: Managed 1323-member cross-functional team delivering education platform. Location: Nashville, TN.",
+      "label": 0
+    },
+    {
+      "name": "Shirley Huang",
+      "education": "B.Tech in Computer Science from University of Michigan, graduated 2019. M.S. in Cybersecurity from University of California, Berkeley, graduated 2021",
+      "graduation_year": "2019",
+      "experience_years": "7",
+      "skills": [
+        "Helm",
+        "AWS",
+        "Monitoring",
+        "Docker Basics",
+        "Linux",
+        "Prometheus",
+        "Service Mesh",
+        "Bash",
+        "AWS Basics",
+        "Networking Basics",
+        "Python",
+        "Git"
+      ],
+      "projects": [
+        "Implemented container orchestration using Kubernetes for 1519 microservices",
+        "Implemented blue-green deployment strategy"
+      ],
+      "resume_text": "Shirley Huang. SRE Lead. Education: B.Tech in Computer Science from University of Michigan, graduated 2019. M.S. in Cybersecurity from University of California, Berkeley, graduated 2021. Experience: 7 years in DevOps. Work History: Cloud Intern at Netflix, Bangalore, India (2025-2026). Systems Engineer at Intel, Bangalore, India (2023-2025). Infrastructure Architect at PivotPoint Analytics, Raleigh, NC (2019-2023). Skills: Helm, AWS, Monitoring, Docker Basics, Linux, Prometheus, Service Mesh, Bash, AWS Basics, Networking Basics, Python, Git. Projects: Implemented container orchestration using Kubernetes for 1519 microservices. Implemented blue-green deployment strategy. Location: Denver, CO.",
+      "label": 0
+    },
+    {
+      "name": "Jeremy Cruz",
+      "education": "B.S. in Electrical Engineering from University of Southern California, graduated 2014",
+      "graduation_year": "2014",
+      "experience_years": "10",
+      "skills": [
+        "Basic Queries",
+        "Multi-Region Deployments",
+        "Performance Tuning",
+        "MySQL",
+        "Excel",
+        "Partitioning",
+        "ETL",
+        "Cloud Databases",
+        "Data Warehouse",
+        "Capacity Planning",
+        "Data Migration",
+        "PostgreSQL",
+        "Database Architecture",
+        "Database Strategy",
+        "Replication",
+        "Data Entry",
+        "Sharding",
+        "Database Design",
+        "SQL",
+        "Oracle",
+        "High Availability",
+        "Data Governance"
+      ],
+      "projects": [
+        "Optimized slow queries improving performance by 35%",
+        "Designed ETL pipeline processing 3155 records per hour",
+        "Implemented database sharding reducing query time by 21%"
+      ],
+      "resume_text": "Jeremy Cruz. Chief Data Architect. Education: B.S. in Electrical Engineering from University of Southern California, graduated 2014. Experience: 10 years in Database Administration. Work History: Database Architect at Goldman Sachs, Hyderabad, India (2021-2026). Chief Data Architect at American Express, Charlotte, NC (2018-2021). Director of Data Engineering at Reddit, Berlin, Germany (2016-2018). Skills: Basic Queries, Multi-Region Deployments, Performance Tuning, MySQL, Excel, Partitioning, ETL, Cloud Databases, Data Warehouse, Capacity Planning, Data Migration, PostgreSQL, Database Architecture, Database Strategy, Replication, Data Entry, Sharding, Database Design, SQL, Oracle, High Availability, Data Governance. Projects: Optimized slow queries improving performance by 35%. Designed ETL pipeline processing 3155 records per hour. Implemented database sharding reducing query time by 21%. Location: San Francisco, CA.",
+      "label": 0
+    },
+    {
+      "name": "Peter Chavez",
+      "education": "B.S. in Software Engineering from University of California, Los Angeles, graduated 2022",
+      "graduation_year": "2022",
+      "experience_years": "3",
+      "skills": [
+        "Linux",
+        "Security Fundamentals",
+        "Firewalls",
+        "IDS/IPS",
+        "OWASP",
+        "Incident Response",
+        "TCP/IP",
+        "Networking",
+        "SIEM",
+        "Python",
+        "Penetration Testing"
+      ],
+      "projects": [
+        "Built automated vulnerability scanning pipeline for 95 assets",
+        "Implemented SIEM solution processing 1842 events per second"
+      ],
+      "resume_text": "Peter Chavez. Security Analyst. Education: B.S. in Software Engineering from University of California, Los Angeles, graduated 2022. Experience: 3 years in Cybersecurity. Work History: SOC Analyst at Raytheon, Singapore (2023-2026). Skills: Linux, Security Fundamentals, Firewalls, IDS/IPS, OWASP, Incident Response, TCP/IP, Networking, SIEM, Python, Penetration Testing. Projects: Built automated vulnerability scanning pipeline for 95 assets. Implemented SIEM solution processing 1842 events per second. Location: Austin, TX.",
+      "label": 0
+    }
+  ],
+  "fake_resumes": [
+    {
+      "name": "Helen Russell",
+      "education": "B.S. in Marketing from IIT Bombay, graduated 2025",
+      "graduation_year": "2025",
+      "experience_years": "0",
+      "skills": [
+        "A/B Testing",
+        "Canva",
+        "Email Marketing",
+        "Content Writing",
+        "Brand Strategy",
+        "Market Research",
+        "Google Analytics",
+        "Social Media",
+        "SEO Basics",
+        "Digital Marketing"
+      ],
+      "projects": [
+        "Created content marketing strategy generating 3239 leads per month",
+        "Managed social media accounts growing following by 17%",
+        "Launched email campaign with 19% open rate for 4979 subscribers"
+      ],
+      "resume_text": "Helen Russell. Director of Marketing. Education: B.S. in Marketing from IIT Bombay, graduated 2025. Experience: 0 years in Marketing. Work History: Director of Marketing at DataForge Systems, Detroit, MI (2025-2026). Skills: A/B Testing, Canva, Email Marketing, Content Writing, Brand Strategy, Market Research, Google Analytics, Social Media, SEO Basics, Digital Marketing. Projects: Created content marketing strategy generating 3239 leads per month. Managed social media accounts growing following by 17%. Launched email campaign with 19% open rate for 4979 subscribers. Location: Chicago, IL.",
+      "label": 1
+    },
+    {
+      "name": "Gabriel Rodriguez",
+      "education": "B.Tech in Computer Engineering from Cornell University, graduated 2025",
+      "graduation_year": "2025",
+      "experience_years": "0",
+      "skills": [
+        "CSS",
+        "TypeScript",
+        "Jenkins",
+        "Python",
+        "Git",
+        "Kubernetes",
+        "MongoDB",
+        "SQL",
+        "JavaScript",
+        "Node.js",
+        "Docker",
+        "ElasticSearch",
+        "HTML",
+        "Terraform",
+        "CI/CD"
+      ],
+      "projects": [
+        "Developed a search feature using ElasticSearch for 449 products",
+        "Migrated legacy monolith to microservices architecture",
+        "Built internal tooling dashboard for monitoring system health"
+      ],
+      "resume_text": "Gabriel Rodriguez. Distinguished Engineer. Education: B.Tech in Computer Engineering from Cornell University, graduated 2025. Experience: 0 years in Software Engineering. Work History: Distinguished Engineer at Adobe, Detroit, MI (2025-2026). Skills: CSS, TypeScript, Jenkins, Python, Git, Kubernetes, MongoDB, SQL, JavaScript, Node.js, Docker, ElasticSearch, HTML, Terraform, CI/CD. Projects: Developed a search feature using ElasticSearch for 449 products. Migrated legacy monolith to microservices architecture. Built internal tooling dashboard for monitoring system health. Location: Dublin, Ireland.",
+      "label": 1
+    },
+    {
+      "name": "Joyce Morris",
+      "education": "B.Tech in Electronics and Communication from Princeton University, graduated 2024",
+      "graduation_year": "2024",
+      "experience_years": "9",
+      "skills": [
+        "Lambda",
+        "GCP",
+        "Cloud Governance",
+        "CloudFormation",
+        "VPC",
+        "Data Lakes",
+        "Virtualization",
+        "AWS Basics",
+        "Python",
+        "Security Best Practices",
+        "Serverless Architecture",
+        "Vendor Management",
+        "Multi-Cloud",
+        "Networking",
+        "Linux",
+        "Azure",
+        "Cloud Migration Leadership",
+        "Bash",
+        "AWS EC2",
+        "Cloud Strategy"
+      ],
+      "projects": [
+        "Implemented serverless architecture using Lambda for real estate",
+        "Migrated 4503 applications to AWS cloud reducing costs by 52%"
+      ],
+      "resume_text": "Joyce Morris. VP of Cloud Infrastructure. Education: B.Tech in Electronics and Communication from Princeton University, graduated 2024. Experience: 9 years in Cloud Engineering. Work History: VP of Cloud Infrastructure at InfraCore Systems, Toronto, Canada (2025-2026). Skills: Lambda, GCP, Cloud Governance, CloudFormation, VPC, Data Lakes, Virtualization, AWS Basics, Python, Security Best Practices, Serverless Architecture, Vendor Management, Multi-Cloud, Networking, Linux, Azure, Cloud Migration Leadership, Bash, AWS EC2, Cloud Strategy. Projects: Implemented serverless architecture using Lambda for real estate. Migrated 4503 applications to AWS cloud reducing costs by 52%. Location: San Jose, CA.",
+      "label": 1
+    },
+    {
+      "name": "Gregory Diaz",
+      "education": "B.Tech in Computer Science from Carnegie Mellon University, graduated 2025",
+      "graduation_year": "2025",
+      "experience_years": "10",
+      "skills": [
+        "SEO",
+        "Design Systems",
+        "jQuery",
+        "Performance Optimization",
+        "MongoDB",
+        "JavaScript",
+        "Technical Leadership",
+        "AWS",
+        "CSS",
+        "Bootstrap",
+        "GraphQL",
+        "Cross-browser Compatibility",
+        "Angular",
+        "HTML",
+        "Vue.js",
+        "Git",
+        "Responsive Design"
+      ],
+      "projects": [
+        "Built a responsive e-commerce website with 2415 product listings",
+        "Created a content management system for manufacturing"
+      ],
+      "resume_text": "Gregory Diaz. Principal Web Architect. Education: B.Tech in Computer Science from Carnegie Mellon University, graduated 2025. Experience: 10 years in Web Development. Work History: Principal Web Architect at Walmart, Orlando, FL (2023-2026). Skills: SEO, Design Systems, jQuery, Performance Optimization, MongoDB, JavaScript, Technical Leadership, AWS, CSS, Bootstrap, GraphQL, Cross-browser Compatibility, Angular, HTML, Vue.js, Git, Responsive Design. Projects: Built a responsive e-commerce website with 2415 product listings. Created a content management system for manufacturing. Location: Nashville, TN.",
+      "label": 1
+    },
+    {
+      "name": "Kathryn Davis",
+      "education": "B.S. in Finance from New York University, graduated 2022",
+      "graduation_year": "2022",
+      "experience_years": "12",
+      "skills": [
+        "Onboarding",
+        "Recruitment Basics",
+        "Data Entry",
+        "Communication",
+        "Employee Relations",
+        "HR Strategy",
+        "HR Analytics",
+        "Performance Management",
+        "Talent Acquisition",
+        "HR Transformation",
+        "Culture Strategy",
+        "Executive Search",
+        "ATS",
+        "Payroll",
+        "Compensation",
+        "Learning & Development",
+        "Organizational Development",
+        "MS Office",
+        "HR Software Basics",
+        "Board Advisory"
+      ],
+      "projects": [
+        "Implemented HRIS system for 149-employee organization",
+        "Led diversity and inclusion initiative increasing diverse hires by 17%",
+        "Designed onboarding program reducing time-to-productivity by 27%"
+      ],
+      "resume_text": "Kathryn Davis. Director of People. Education: B.S. in Finance from New York University, graduated 2022. Experience: 12 years in HR. Work History: HR Generalist at Codewave Technologies (2010-2013). Talent Acquisition Lead at Pinterest (2013-2020). Director of People at Twitter (2020-2026). Skills: Onboarding, Recruitment Basics, Data Entry, Communication, Employee Relations, HR Strategy, HR Analytics, Performance Management, Talent Acquisition, HR Transformation, Culture Strategy, Executive Search, ATS, Payroll, Compensation, Learning & Development, Organizational Development, MS Office, HR Software Basics, Board Advisory. Projects: Implemented HRIS system for 149-employee organization. Led diversity and inclusion initiative increasing diverse hires by 17%. Designed onboarding program reducing time-to-productivity by 27%. Location: Atlanta, GA.",
+      "label": 1
+    },
+    {
+      "name": "Helen Torres",
+      "education": "B.Tech in Information Technology from University of Maryland, graduated 2025",
+      "graduation_year": "2025",
+      "experience_years": "11",
+      "skills": [
+        "SQLite",
+        "Xcode",
+        "Architecture Patterns",
+        "Platform SDKs",
+        "CI/CD for Mobile",
+        "Technical Leadership",
+        "Performance Optimization",
+        "Java",
+        "In-App Purchases",
+        "Mobile Architecture",
+        "BLE",
+        "Flutter",
+        "Swift",
+        "Mobile DevOps",
+        "Android Studio",
+        "Cross-Platform Strategy",
+        "REST APIs",
+        "Git",
+        "XML",
+        "Kotlin"
+      ],
+      "projects": [
+        "Built a banking app with biometric authentication",
+        "Created a social media app with real-time messaging",
+        "Implemented push notification system reaching 948 daily users"
+      ],
+      "resume_text": "Helen Torres. Head of Mobile. Education: B.Tech in Information Technology from University of Maryland, graduated 2025. Experience: 11 years in Mobile Development. Work History: iOS Developer at DataDriven Inc (2014-2017). Staff Mobile Engineer at Lyft (2017-2023). Head of Mobile at Uber (2023-2026). Skills: SQLite, Xcode, Architecture Patterns, Platform SDKs, CI/CD for Mobile, Technical Leadership, Performance Optimization, Java, In-App Purchases, Mobile Architecture, BLE, Flutter, Swift, Mobile DevOps, Android Studio, Cross-Platform Strategy, REST APIs, Git, XML, Kotlin. Projects: Built a banking app with biometric authentication. Created a social media app with real-time messaging. Implemented push notification system reaching 948 daily users. Location: Boston, MA.",
+      "label": 1
+    },
+    {
+      "name": "Julie Ahmed",
+      "education": "B.S. in Software Engineering from Rice University, graduated 2024",
+      "graduation_year": "2024",
+      "experience_years": "8",
+      "skills": [
+        "Partitioning",
+        "Data Governance",
+        "Performance Tuning",
+        "SQL",
+        "Capacity Planning",
+        "Database Architecture",
+        "Cloud Databases",
+        "PostgreSQL",
+        "High Availability",
+        "Excel",
+        "Database Design",
+        "Data Migration",
+        "Data Entry",
+        "Multi-Region Deployments",
+        "Oracle",
+        "Backup and Recovery",
+        "Indexing",
+        "Basic Queries",
+        "MySQL",
+        "Database Strategy"
+      ],
+      "projects": [
+        "Optimized slow queries improving performance by 39%",
+        "Implemented database monitoring and alerting for 1131 instances"
+      ],
+      "resume_text": "Julie Ahmed. Director of Data Engineering. Education: B.S. in Software Engineering from Rice University, graduated 2024. Experience: 8 years in Database Administration. Work History: Director of Data Engineering at American Express, Toronto, Canada (2025-2026). Skills: Partitioning, Data Governance, Performance Tuning, SQL, Capacity Planning, Database Architecture, Cloud Databases, PostgreSQL, High Availability, Excel, Database Design, Data Migration, Data Entry, Multi-Region Deployments, Oracle, Backup and Recovery, Indexing, Basic Queries, MySQL, Database Strategy. Projects: Optimized slow queries improving performance by 39%. Implemented database monitoring and alerting for 1131 instances. Location: Seattle, WA.",
+      "label": 1
+    },
+    {
+      "name": "Scott Foster",
+      "education": "B.S. in Computer Science from Georgia Institute of Technology, graduated 2025",
+      "graduation_year": "2025",
+      "experience_years": "1",
+      "skills": [
+        "SQL",
+        "Node.js",
+        "REST APIs",
+        "TypeScript",
+        "GraphQL",
+        "CSS",
+        "JavaScript",
+        "Redis",
+        "Git",
+        "Jenkins",
+        "Microservices",
+        "Java",
+        "Docker",
+        "Agile",
+        "CI/CD"
+      ],
+      "projects": [
+        "Implemented microservices architecture serving 4278 concurrent users",
+        "Built a notification service handling 662 push notifications per day",
+        "Built internal tooling dashboard for monitoring system health"
+      ],
+      "resume_text": "Scott Foster. Director of Engineering. Education: B.S. in Computer Science from Georgia Institute of Technology, graduated 2025. Experience: 1 years in Software Engineering. Work History: Director of Engineering at Raytheon, Phoenix, AZ (2025-2026). Skills: SQL, Node.js, REST APIs, TypeScript, GraphQL, CSS, JavaScript, Redis, Git, Jenkins, Microservices, Java, Docker, Agile, CI/CD. Projects: Implemented microservices architecture serving 4278 concurrent users. Built a notification service handling 662 push notifications per day. Built internal tooling dashboard for monitoring system health. Location: Mumbai, India.",
+      "label": 1
+    },
+    {
+      "name": "Deborah Allen",
+      "education": "BBA from University of Toronto, graduated 2025",
+      "graduation_year": "2025",
+      "experience_years": "12",
+      "skills": [
+        "HRIS",
+        "Data Entry",
+        "HR Strategy",
+        "MS Office",
+        "HR Transformation",
+        "Communication",
+        "Employee Relations",
+        "Payroll",
+        "Organizational Development",
+        "Executive Search",
+        "Talent Acquisition",
+        "HR Software Basics",
+        "Compensation",
+        "Onboarding",
+        "Board Advisory",
+        "Recruitment Basics"
+      ],
+      "projects": [
+        "Implemented HRIS system for 4058-employee organization",
+        "Managed hiring process for 626 positions across 20 departments",
+        "Built employee engagement program improving retention by 37%"
+      ],
+      "resume_text": "Deborah Allen. VP of HR. Education: BBA from University of Toronto, graduated 2025. Experience: 12 years in HR. Work History: Talent Acquisition Specialist at IBM (2013-2016). Talent Acquisition Lead at Agile Dynamics (2016-2023). VP of HR at Skyline Digital (2023-2026). Skills: HRIS, Data Entry, HR Strategy, MS Office, HR Transformation, Communication, Employee Relations, Payroll, Organizational Development, Executive Search, Talent Acquisition, HR Software Basics, Compensation, Onboarding, Board Advisory, Recruitment Basics. Projects: Implemented HRIS system for 4058-employee organization. Managed hiring process for 626 positions across 20 departments. Built employee engagement program improving retention by 37%. Location: Denver, CO.",
+      "label": 1
+    },
+    {
+      "name": "Hassan Cox",
+      "education": "B.S. in Economics from University of Toronto, graduated 2023",
+      "graduation_year": "2023",
+      "experience_years": "2",
+      "skills": [
+        "SDQA Process",
+        "Backup and Recovery",
+        "Forecasting",
+        "Feature Engineering",
+        "Selenium",
+        "JIRA",
+        "Quality Leadership",
+        "Web Architecture",
+        "NumPy",
+        "Penetration Testing",
+        "JMeter",
+        "Population Health",
+        "Cold Calling",
+        "Board Advisory",
+        "Webpack",
+        "Model Deployment",
+        "Azure",
+        "BLE",
+        "Partnership Development",
+        "Machine Learning",
+        "Large-Scale ML Systems",
+        "Bloomberg Terminal",
+        "P&L Management",
+        "Data Analytics",
+        "S3",
+        "Sharding",
+        "Capacity Planning",
+        "Multi-Region Deployments"
+      ],
+      "projects": [],
+      "resume_text": "Hassan Cox. Junior Financial Analyst. Education: B.S. in Economics from University of Toronto, graduated 2023. Experience: 2 years in Finance. Work History: Intern at Cisco, Mumbai, India (6 months in 2025). Skills: SDQA Process, Backup and Recovery, Forecasting, Feature Engineering, Selenium, JIRA, Quality Leadership, Web Architecture, NumPy, Penetration Testing, JMeter, Population Health, Cold Calling, Board Advisory, Webpack, Model Deployment, Azure, BLE, Partnership Development, Machine Learning, Large-Scale ML Systems, Bloomberg Terminal, P&L Management, Data Analytics, S3, Sharding, Capacity Planning, Multi-Region Deployments. Location: Berlin, Germany.",
+      "label": 1
+    }
+  ],
+  "suspicious_resumes": [
+    {
+      "resume_text": "Elizabeth Singh. Lead Data Engineer. Education: B.Tech in Electronics and Communication from Manipal University, graduated 2012. Experience: 4 years in Database Administration. Work History: Lead Data Engineer at PwC, San Jose, CA (10 months in 2026). Database Architect at Johnson & Johnson, Seattle, WA (8 months in 2025). Database Architect at TCS, Los Angeles, CA (9 months in 2024). Senior DBA at Johnson & Johnson, Toronto, Canada (8 months in 2023). Skills: Backup and Recovery, Basic Queries, MySQL, Cloud Databases, Data Entry, Data Warehouse, Database Design, SQL, MongoDB, Excel. Projects: Managed 4667 production databases with 99.18% uptime. Implemented database sharding reducing query time by 40%. Location: Bangalore, India.",
+      "label": 2
+    },
+    {
+      "resume_text": "Anthony Jimenez. Delivery Lead. Education: BBA from National University of Singapore, graduated 2013. Experience: 4 years in Project Management. Work History: Senior Project Manager at Reddit, San Diego, CA (8 months in 2026). Delivery Lead at IBM, Philadelphia, PA (8 months in 2025). Program Manager at Google, Chennai, India (8 months in 2024). Senior Project Manager at Twitter, Dallas, TX (10 months in 2023). Delivery Lead at Cisco, Toronto, Canada (6 months in 2022). Skills: Confluence, Stakeholder Management, Presentation Skills, MS Office, Communication, Vendor Management, JIRA, Budgeting, Agile Basics, Kanban, Documentation, SAFe, PMP. Projects: Managed vendor relationships with 4350 external partners. Led Agile transformation for team of 4999 engineers. Location: Raleigh, NC.",
+      "label": 2
+    },
+    {
+      "resume_text": "Jennifer Diaz. Junior Sales Representative. Education: B.S. in Marketing from Penn State University, graduated 2015. Experience: 1 years in Sales. Work History: Sales Associate at CoreBridge Systems, Pune, India (2016-2018). Junior Sales Representative at VertexAI Labs, Charlotte, NC (2018-2026). Skills: Lead Generation, Communication, Cold Calling, MS Office, CRM Basics, Presentation Skills. Projects: Implemented Salesforce CRM for team of 1044 reps. Managed portfolio of 4447 enterprise accounts. Location: Nashville, TN.",
+      "label": 2
+    },
+    {
+      "resume_text": "Stephanie Chen. Key Account Manager. Education: B.Com from University of Minnesota, graduated 2014. Experience: 7 years in Sales. Work History: Junior Sales Representative at Infosys, Chennai, India (2016-2018). Key Account Manager at Deloitte, Atlanta, GA (2018-2026). Skills: Cold Calling, Salesforce, MS Office, CRM Basics, Enterprise Sales, HubSpot CRM, Sales Strategy, Presentation Skills, B2B Sales, Lead Generation, Negotiation, Territory Management, Communication, Pipeline Management, Account Management, Sales Analytics. Projects: Built sales pipeline generating $2028M in opportunities. Implemented Salesforce CRM for team of 3772 reps. Location: Berlin, Germany.",
+      "label": 2
+    },
+    {
+      "resume_text": "Neha Sullivan. Chief Operating Officer. Education: BBA from University of California, Los Angeles, graduated 2012. Experience: 8 years in Project Management. Work History: Chief Operating Officer at Deloitte, Nashville, TN (2018-2026). Skills: Program Management, Confluence, Executive Communication, Presentation Skills, Change Management, MS Office, Risk Management, Vendor Management, Portfolio Management, JIRA, Documentation, Organizational Transformation, Strategic Planning, Communication, Agile Basics, SAFe. Projects: Worked on various internal projects. Contributed to team deliverables. Participated in product development. Location: Dallas, TX.",
+      "label": 2
+    },
+    {
+      "resume_text": "Kenneth Watson. Lead Developer. Education: B.Tech in Computer Engineering from Rice University, graduated 2020. Experience: 6 years in Software Engineering. Work History: Engineering Lead at Cognizant, Dallas, TX (10 months in 2026). Senior Software Engineer at Cisco, Hyderabad, India (9 months in 2025). Lead Developer at Abbott, Mumbai, India (6 months in 2024). Lead Developer at Shopify, Atlanta, GA (10 months in 2023). Skills: CI/CD, Microservices, JavaScript, React, GraphQL, Redis, Kubernetes, Jenkins, Docker, SQL, REST APIs, Kafka, ElasticSearch, HTML, Python, CSS, Node.js. Projects: Built internal tooling dashboard for monitoring system health. Implemented authentication and authorization using OAuth 2.0 and JWT. Location: Toronto, Canada.",
+      "label": 2
+    },
+    {
+      "resume_text": "Suresh Mehta. AWS Solutions Architect. Education: B.Tech in Electronics and Communication from University of Maryland, graduated 2018. Experience: 2 years in Cloud Engineering. Work History: AWS Solutions Architect at CyberShield Corp, Dallas, TX (2024-2026). Skills: Serverless Architecture, Bash, Networking, Cost Optimization, Security Best Practices, Linux, AWS Basics, Azure, Multi-Cloud, Python, S3, Virtualization. Projects: Designed cloud security framework for enterprise. Implemented serverless architecture using Lambda for insurance. Location: Raleigh, NC.",
+      "label": 2
+    },
+    {
+      "resume_text": "Hiroshi Jimenez. Regional Sales Manager. Education: B.S. in Marketing from Penn State University, graduated 2019. Experience: 7 years in Sales. Work History: Regional Sales Manager at TechNova Solutions, Vancouver, Canada (2019-2026). Skills: Account Management, Pipeline Management, CRM Basics, B2B Sales, Territory Management, Lead Generation, MS Office, Sales Analytics, Salesforce, Negotiation, Communication, Cold Calling, Presentation Skills, HubSpot CRM, Partnership Development, Enterprise Sales. Projects: Worked on various internal projects. Contributed to team deliverables. Participated in product development. Location: Charlotte, NC.",
+      "label": 2
+    },
+    {
+      "resume_text": "Sandra Verma. Lead ML Engineer. Education: B.S. in Software Engineering from Cornell University, graduated 2019. Experience: 7 years in Data Science. Work History: Lead ML Engineer at American Express, Nashville, TN (2019-2026). Skills: TensorFlow, Statistics, Data Visualization, PyTorch, Scikit-learn, AWS SageMaker, Pandas, SQL, Jupyter, Feature Engineering, Spark, Excel, MLOps, Model Deployment, Machine Learning, Computer Vision, Matplotlib, Python, A/B Testing. Projects: Responsible for improving system efficiency. Handled multiple client-facing deliverables. Used SQL in day-to-day operations. Location: Chicago, IL.",
+      "label": 2
+    },
+    {
+      "resume_text": "Ronald Stewart. Clinical Systems Lead. Education: B.Tech in Computer Science from Massachusetts Institute of Technology, graduated 2019. Experience: 7 years in Healthcare IT. Work History: Clinical Systems Lead at Boeing, San Francisco, CA (2019-2026). Skills: SQL, HL7, Clinical Data, Medical Terminology, Excel, Cerner, Clinical Decision Support, EMR Basics, Population Health, HIPAA Basics, Data Analytics. Projects: Responsible for improving system efficiency. Handled multiple client-facing deliverables. Used HIPAA Basics in day-to-day operations. Location: Bangalore, India.",
+      "label": 2
+    }
+  ]
+}
